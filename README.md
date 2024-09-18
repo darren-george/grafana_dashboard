@@ -1,7 +1,7 @@
 # Basic Grafana Dashboard. #
 
-## Data Source: Prometheus
-## Data Producer: Open source Promolabs demo server (https://demo.promlabs.com)
+### Data Source: Prometheus
+### Data Producer: Open source Promolabs demo server (https://demo.promlabs.com)
 
 Created a basic 
 (1) time series chart (latency histograph)
