@@ -4,7 +4,7 @@
 ### Data Producer: Open source Promolabs demo server (https://demo.promlabs.com)
 
 Created a basic 
-(1) time series chart (latency histograph)
+(1) time series chart (latency histogram)
 
 ![image](https://github.com/user-attachments/assets/4a18358f-1836-4124-80ea-510870dbd593)
 
